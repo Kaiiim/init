@@ -1,0 +1,9 @@
+su user
+
+useradd user question et passe par ssh 
+
+
+nouvel utilisateur ->
+ssh user@ip
+
+peut verif cela sur /etc/group ou 

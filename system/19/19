@@ -1,0 +1,5 @@
+# https://forum.ubuntu-fr.org/viewtopic.php?id=4173
+
+/etc/rc2.d
+
+#deamon processus + le S au debut = start
